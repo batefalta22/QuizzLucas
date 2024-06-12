@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8fe4fe86ba726984092d331f7fb8671d
+guid: 5387e78a6b01c1540b7dd0a3cc7647aa
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -154,7 +154,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,8 +163,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26367b8f81356004ca0817a056a69d01
-      internalID: -142865221
+      spriteID: 0b637a779cdc1f54ab1a9bfb380a8480
+      internalID: -398278832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_donut_shot (16 x 16)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd3538e958a624296e71c9a1c4d8fc
+      internalID: -72245676
       vertices: []
       indices: 
       edges: []
@@ -172,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 153f0adf3ba5ed6429f75ce627b6d3f8
+    spriteID: 9c0b70ac7de4f354786b4fead8e9b3f3
     internalID: 0
     vertices: []
     indices: 
@@ -180,7 +201,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_donut_shot (16 x 16)_0: -142865221
+      Player_donut_shot (16 x 16)_0: -398278832
+      Player_donut_shot (16 x 16)_1: -72245676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

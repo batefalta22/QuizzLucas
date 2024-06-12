@@ -348,7 +348,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &859153287
@@ -463,6 +463,18 @@ MonoBehaviour:
   taxaTiro: 0.5
   miraPlayer: {fileID: 1132378320}
   tiroPlayer: {fileID: 6738637665351890378, guid: d97207463fab9e3479dc08187660a1b7, type: 3}
+  powerEsquerda: {fileID: 0}
+  powerDireita: {fileID: 0}
+  tiroPowerUp: {fileID: 0}
+  powerUp1Ativo: 0
+  powerUp2: 0
+  inputPowerUp2: 0
+  alansAtivos: []
+  taxaPower2: 0
+  podePower2: 0
+  vidaMaxima: 0
+  vidaAtual: 0
+  taxaInvencivel: 0
 --- !u!1 &1074082750
 GameObject:
   m_ObjectHideFlags: 0
@@ -621,6 +633,7 @@ MonoBehaviour:
   - {fileID: 1956162318}
   - {fileID: 206690231}
   taxaAlan: 1.5
+  score: 0
 --- !u!4 &1222108492
 Transform:
   m_ObjectHideFlags: 0
